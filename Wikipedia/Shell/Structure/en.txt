@@ -1,0 +1,12 @@
+A shell is a three-dimensional solid structural element whose thickness is very
+small compared to its other dimensions. It is characterized in structural terms
+by mid-plane stress which is both coplanar and normal to the surface. A shell
+can be derived from a plate in two steps: by initially forming the middle
+surface as a singly or doubly curved surface, then by applying loads which are
+coplanar to the plate's plane thus generating significant stresses. Materials
+range from concrete (a concrete shell) to fabric (as in fabric structures).
+
+Thin-shell structures (also called plate and shell structures) are lightweight
+constructions using shell elements. These elements, typically curved, are
+assembled to make large structures. Typical applications include aircraft
+fuselages, boat hulls, and the roofs of large buildings.

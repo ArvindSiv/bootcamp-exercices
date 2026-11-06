@@ -1,0 +1,6 @@
+An operating system shell is a computer program that provides relatively broad
+and direct access to the system on which it runs. The term shell refers to how
+it is a relatively thin layer around an operating system.
+
+Most shells are command-line interface (CLI) programs. Some graphical user
+interfaces (GUI) also include shells.

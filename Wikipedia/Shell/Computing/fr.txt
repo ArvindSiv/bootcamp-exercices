@@ -1,0 +1,4 @@
+Une interface système ou coque logicielle (shell en anglais) est une couche
+logicielle qui fournit l'interface utilisateur d'un système d'exploitation. Il
+correspond à la couche la plus externe de ce dernier. L'interface système est
+utilisée comme diminutif de l'interface utilisateur du système d'exploitation.

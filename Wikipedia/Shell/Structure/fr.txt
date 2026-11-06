@@ -1,0 +1,15 @@
+Une coque est un élément structurel solide tridimensionnel dont l'épaisseur est
+très faible par rapport à ses autres dimensions. Il se caractérise en termes
+structurels par une contrainte dans le plan médian qui est à la fois coplanaire
+et normale à la surface. Une coque peut être dérivée d'une plaque en deux étapes
+: en formant dans un premier temps le feuillet moyen (middle surface; la surface
+médiane) comme une surface à simple ou double courbure, puis en appliquant des
+charges coplanaires au plan de la plaque générant ainsi des contraintes
+importantes. Les matériaux vont du béton (coque en béton ) au tissu (comme dans
+les structures en tissu (en)).
+
+Les structures minces de type coque (en anglais Thin-shell structures, Plate and
+shell structures) sont des constructions légères utilisant des éléments de
+coque. Ces éléments, typiquement courbés, sont assemblés pour réaliser de
+grandes structures. Les applications typiques incluent les fuselages d'avions,
+les coques de bateaux et les toits de grands bâtiments.

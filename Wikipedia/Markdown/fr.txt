@@ -1,0 +1,14 @@
+Markdown est un langage de balisage léger créé en 2004 par John Gruber, avec
+l'aide d'Aaron Swartz, avec l'objectif d'offrir une syntaxe, facile à lire et à
+écrire, en l'état, sans formatage.
+
+Markdown est principalement utilisé dans des blogs, des sites de messagerie
+instantanée, des forums et des pages de documentation de logiciels. Depuis
+quelques années, Markdown est utilisé par la communauté scientifique, en lien
+avec la Science ouverte.
+
+Un document balisé par Markdown peut être converti en HTML, en PDF ou en
+d'autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs
+filtres de conversion de texte existants vers HTML — dont Setext, atx, Textile,
+reStructuredText, Grutatext et EtText —, la source d’inspiration principale du
+Markdown est le format du courrier électronique en mode texte.
